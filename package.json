@@ -1,0 +1,19 @@
+{
+  "name": "backend-tut",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial Project (build a simple shop)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Lavell \"kza\" Wesley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
